@@ -1,0 +1,3 @@
+achivevements是解析式求导后的结果截图.
+主要修改是在calibration.cpp完成了解析式求导类MultiPosAccResidual的书写,并对后面三个TODO进行修改.
+使程序能够正常运行
